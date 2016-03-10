@@ -1,0 +1,9 @@
+    {
+        "require": {
+            "slim/slim": "2.4.*",
+            "entomb/slim-json-api": "dev-master",
+	    "vrana/notorm": "dev-master",
+	    "guzzlehttp/guzzle": "~6.0",
+	    "slim/logger": "0.1.*"
+        }
+    }
